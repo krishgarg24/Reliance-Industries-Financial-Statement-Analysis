@@ -4,7 +4,6 @@ A comprehensive 5-year consolidated financial statement analysis and Excel finan
 
 The project combines a formula-driven Excel financial model, financial ratio analysis, KPI dashboard, and a 9-page analytical report to evaluate Reliance Industries' financial performance, profitability, liquidity, leverage, efficiency, and cash-flow trends.
 
-| | |
 |---|---|
 | **Project Type** | Financial Analysis / Financial Modelling |
 | **Company** | Reliance Industries Limited (NSE: RELIANCE) |
